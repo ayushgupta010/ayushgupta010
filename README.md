@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I’m currently working on exploring new technologies
+🔭 I’m currently working on exploring Nextjs and DSA
 
 📫 How to reach me: ... [ayushgupta2210116@gmail.com]
 
