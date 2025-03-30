@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 🔭 I’m currently working on exploring new technologies
+
 📫 How to reach me: ... [ayushgupta2210116@gmail.com]
+
  LinkedIn [https://www.linkedin.com/in/ayush-guptaa0001/]
 
 <!--
