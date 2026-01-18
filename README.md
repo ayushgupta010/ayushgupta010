@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Next.js<br>📫 How to reach me ayushgupta2210116@gmial.com<br>👨‍💻 linkedin: https://www.Linkedin.com/in/ayush-guptaa0001/<br>
+🌱 I’m Fullstack Developer<br>📫 How to reach me ayushgupta83681@gmial.com<br>👨‍💻 linkedin: https://www.Linkedin.com/in/ayush-guptaa0001/<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayushgupta010/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://Linkedin.com/in/ayush-guptaa0001/) [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/AyushGupta54840)
